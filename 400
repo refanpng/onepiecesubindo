@@ -34,9 +34,9 @@ Dialogue: 0,0:01:55.71,0:02:00.05,Default,,0,0,0,,♫Mari kerahkan semuanya\Nsep
 Dialogue: 0,0:02:00.05,0:02:03.10,Default,,0,0,0,,♫Dan membuat keributan\Nyang menakjubkan…♫
 Dialogue: 0,0:02:03.10,0:02:04.72,Default,,0,0,0,,♫Hidup adalah “Petualangan”♫
 Dialogue: 0,0:02:04.72,0:02:06.43,Default,,0,0,0,,♫Waspadalah terhadap “Bahaya”♫
-Dialogue: 0,0:02:06.43,0:02:08.14,Default,,0,0,0,,♫Siapakah yang akan menjadi\N“Bagian dari kami”♫
-Dialogue: 0,0:02:08.14,0:02:09.77,Default,,0,0,0,,♫Petualangan terus berlanjut karena♫
-Dialogue: 0,0:02:09.77,0:02:11.44,Default,,0,0,0,,♫Kami adalah “Kelompok” bajak laut♫
+Dialogue: 0,0:02:06.43,0:02:08.54,Default,,0,0,0,,♫Siapakah yang akan menjadi\N“Bagian dari kami”♫
+Dialogue: 0,0:02:08.54,0:02:09.15,Default,,0,0,0,,♫Petualangan terus berlanjut karena♫
+Dialogue: 0,0:02:09.15,0:02:11.44,Default,,0,0,0,,♫Kami adalah “Kelompok” bajak laut♫
 Dialogue: 0,0:02:11.44,0:02:13.11,Default,,0,0,0,,♫Ke Barat, Ke Timur♫
 Dialogue: 0,0:02:13.11,0:02:14.48,Default,,0,0,0,,♫Aku akan mencari jalanku, berlayar♫
 Dialogue: 0,0:02:14.48,0:02:15.57,Default,,0,0,0,,♫Menuju ke jalur “One piece”!!♫
@@ -47,292 +47,283 @@ Dialogue: 0,0:02:26.58,0:02:28.75,Default,,0,0,0,,♫Mari terus berjalan ke depa
 Dialogue: 0,0:02:28.75,0:02:33.13,Default,,0,0,0,,♫Mari merebut seluruh harta karun♫
 Dialogue: 0,0:02:33.13,0:02:35.46,Default,,0,0,0,,♫Ketika kita tertawa ria♫
 Dialogue: 0,0:02:35.46,0:02:39.80,Default,,0,0,0,,♫Mari kerahkan semuanya\Nseperti berpesta ria♫
-Dialogue: 0,0:02:39.80,0:02:42.76,Default,,0,0,0,,♫Dan membuat keributan\Nyang menakjubkan…♫
-Dialogue: 0,0:02:47.92,0:02:50.38,Default,,0,0,0,,Ini adalah Great Pirate Era.
-Dialogue: 0,0:02:51.03,0:02:56.17,Default,,0,0,0,,Pertarungan bajak laut yang\Ntak terhitung jumlahnya untuk One Piece,
-Dialogue: 0,0:02:56.17,0:02:58.32,Default,,0,0,0,,harta karun besar peninggalan\NGold Roger, King of Pirates.
-Dialogue: 0,0:02:59.84,0:03:02.78,Default,,0,0,0,,Monkey D. Luffy, tubuhnya\Nberubah menjadi karet
-Dialogue: 0,0:03:02.78,0:03:04.72,Default,,0,0,0,,setelah memakan Gomu Gomu no Mi,
-Dialogue: 0,0:03:04.72,0:03:06.77,Default,,0,0,0,,juga berlayar ke laut untuk\Nmenjadi King of Pirates berikutnya.
-Dialogue: 0,0:03:07.53,0:03:11.53,Default,,0,0,0,,Saat Luffy dan teman-temannya\Nmelewati banyak petualangan,
-Dialogue: 0,0:03:11.53,0:03:16.34,Default,,0,0,0,,Pemerintah Dunia semakin tidak dapat\Nmengabaikan keberadaan mereka.
-Dialogue: 0,0:03:17.51,0:03:19.17,Default,,0,0,0,,Ini sangat menyenangkan!
-Dialogue: 0,0:03:19.91,0:03:22.80,Default,,0,0,0,,Petualangan apa yang menanti\Nkita selanjutnya?!
-Dialogue: 0,0:03:23.18,0:03:26.33,Default,,0,0,0,,Awak kapal, dalam perjalanan\Nmenuju New World,
-Dialogue: 0,0:03:26.33,0:03:29.51,Default,,0,0,0,,akan melaju di sepanjang\NGrand Line lagi hari ini!
-Dialogue: 0,0:03:33.78,0:03:36.52,Default,,0,0,0,,Setelah sampai di Sabaody Archipelago,
-Dialogue: 0,0:03:36.90,0:03:39.68,Default,,0,0,0,,kru Straw Hat berhasil menyelamatkan\NCamie yang diculik.
-Dialogue: 0,0:03:40.10,0:03:44.32,Default,,0,0,0,,Namun, pertarungan dimulai ketika\Nangkatan laut mengepung mereka.
-Dialogue: 0,0:03:44.53,0:03:46.57,Default,,0,0,0,,Kami siap untuk kabur!
-Dialogue: 0,0:03:47.04,0:03:51.20,Default,,0,0,0,,Lalu, mereka berusaha melawan\Nangkatan laut dan melarikan diri.
-Dialogue: 0,0:03:57.57,0:04:01.65,Default,,0,0,0,,(Roger dan Rayleigh -- Raja Dari\NPara Bajak Laut Dan Tangan Kanannya)
-Dialogue: 0,0:04:03.34,0:04:05.76,Default,,0,0,0,,Apa kamu masih hidup, Peterman-san?!
-Dialogue: 0,0:04:05.76,0:04:07.59,Default,,0,0,0,,Beraninya mereka melakukan ini\Nkepada bos kita!
-Dialogue: 0,0:04:08.03,0:04:08.97,Default,,0,0,0,,Kurang ajar!
-Dialogue: 0,0:04:09.35,0:04:11.00,Default,,0,0,0,,Dasar kurang ajar!
-Dialogue: 0,0:04:11.00,0:04:12.47,Default,,0,0,0,,Tetap saja…
-Dialogue: 0,0:04:12.73,0:04:16.12,Default,,0,0,0,,Tidak kusangka Duval memiliki wajah\Nsetampan itu dibalik topengnya!
-Dialogue: 0,0:04:20.38,0:04:23.50,Default,,0,0,0,,Sampai bertemu lagi! Jangan sungkan\Nuntuk menghubungi kami kapan pun!
-Dialogue: 0,0:04:23.50,0:04:28.53,Default,,0,0,0,,Kami akan siap membantu kalian sampai\Nkalian pergi ke Fish-Man Island!
-Dialogue: 0,0:04:28.82,0:04:30.74,Default,,0,0,0,,Baiklah! Terima kasih, semuanya!
-Dialogue: 0,0:04:30.74,0:04:32.54,Default,,0,0,0,,Tidak masalah!
-Dialogue: 0,0:04:32.54,0:04:34.58,Default,,0,0,0,,Berhentilah berkedip.
-Dialogue: 0,0:04:35.86,0:04:37.33,Default,,0,0,0,,Oh, satu lagi…
-Dialogue: 0,0:04:38.87,0:04:40.09,Default,,0,0,0,,Jangan lupakan ini, Nona Mermaid Princess!
-Dialogue: 0,0:04:40.31,0:04:42.07,Default,,0,0,0,,Oh! Tasku!
-Dialogue: 0,0:04:42.07,0:04:44.63,Default,,0,0,0,,Peterman bodoh itu yang mengambilnya!
-Dialogue: 0,0:04:48.30,0:04:49.64,Default,,0,0,0,,Terima kasih!
-Dialogue: 0,0:04:51.94,0:04:55.27,Default,,0,0,0,,Baiklah! Ayo pergi, Hidup itu Cerah!
-Dialogue: 0,0:04:55.27,0:04:57.36,Default,,0,0,0,,Baik, Hand-Rose!
-Dialogue: 0,0:04:58.47,0:05:00.42,Default,,0,0,0,,Sorakan mereka banyak berubah.
-Dialogue: 0,0:05:00.42,0:05:02.44,Default,,0,0,0,,Sepertinya mereka sedang mencari\Nsatu yang cocok.
-Dialogue: 0,0:05:06.07,0:05:07.74,Default,,0,0,0,,Baiklah. Ayo cepat masuk.
-Dialogue: 0,0:05:08.85,0:05:10.70,Default,,0,0,0,,Kita harus membaringkan Hachi!
-Dialogue: 0,0:05:11.16,0:05:14.93,Default,,0,0,0,,(Shakky’s Rip-Off Bar)\NHei, Shakky! Aku pulang!
-Dialogue: 0,0:05:17.11,0:05:21.20,Default,,0,0,0,,Oh, kamu sudah pulang, Ray-san.\NCepat sekali kamu kembalinya.
-Dialogue: 0,0:05:21.20,0:05:23.80,Default,,0,0,0,,Aku terkejut kalian berhasil menemukannya.
-Dialogue: 0,0:05:24.21,0:05:27.67,Default,,0,0,0,,Hachi terluka parah.\NKita harus membaringkannya.
-Dialogue: 0,0:05:28.40,0:05:29.82,Default,,0,0,0,,Apa yang terjadi?!
-Dialogue: 0,0:05:29.82,0:05:32.30,Default,,0,0,0,,Gawat! Aku akan segera\Nmenyiapkan kasurnya!
-Dialogue: 0,0:05:32.59,0:05:36.43,Default,,0,0,0,,Oh, tadi kakek bilang ingin\Nmengatakan sesuatu pada kami…
-Dialogue: 0,0:05:41.40,0:05:42.69,Default,,0,0,0,,Eh?!
-Dialogue: 0,0:05:42.69,0:05:45.11,Default,,0,0,0,,Di kapal Raja dari para Bajak Laut?!
-Dialogue: 0,0:05:45.43,0:05:51.32,Default,,0,0,0,,Iya. Aku Silvers Rayleigh,\Nwakil kapten kapal itu.
-Dialogue: 0,0:05:51.32,0:05:52.41,Default,,0,0,0,,Senang bertemu denganmu.
-Dialogue: 0,0:05:52.41,0:05:54.43,Default,,0,0,0,,Wakil kapten?!
-Dialogue: 0,0:05:57.34,0:05:59.36,Default,,0,0,0,,Kamu tidak memberi tahu mereka, Hatchan?
-Dialogue: 0,0:05:59.36,0:06:02.33,Default,,0,0,0,,Kami hanya memerlukan bantuannya\Nuntuk melapisi kapal, jadi…
-Dialogue: 0,0:06:02.33,0:06:04.55,Default,,0,0,0,,Oh? Kamu tidak menyadarinya?
-Dialogue: 0,0:06:06.00,0:06:07.84,Default,,0,0,0,,Aku tahu namanya dengan baik!
-Dialogue: 0,0:06:08.21,0:06:11.26,Default,,0,0,0,,Namanya sering muncul di buku!
-Dialogue: 0,0:06:11.55,0:06:14.97,Default,,0,0,0,,Semua orang pernah mendengar\Nnamanya setidaknya sekali…
-Dialogue: 0,0:06:16.47,0:06:18.11,Default,,0,0,0,,Gold Roger…
-Dialogue: 0,0:06:18.11,0:06:22.31,Default,,0,0,0,,Aku seperti mengenal anak baru dengan\Nnama itu, tapi aku tidak yakin…
-Dialogue: 0,0:06:22.31,0:06:25.19,Default,,0,0,0,,Bagaimana bisa orang sepertimu\Nmengenal orang penting itu?
-Dialogue: 0,0:06:25.62,0:06:32.45,Default,,0,0,0,,Hachi menyelamatkanku 20 tahun lalu,\Nsaat aku terdampar di laut.
-Dialogue: 0,0:06:32.94,0:06:37.74,Default,,0,0,0,,Dia menyelamatkan hidupnya.\NPadahal dia masih kecil waktu itu.
-Dialogue: 0,0:06:37.74,0:06:41.89,Default,,0,0,0,,Aku dan Hachi menjadi teman baik, sampai\Ndia bergabung dengan Sun Pirates.
-Dialogue: 0,0:06:41.89,0:06:43.37,Default,,0,0,0,,Maksudmu Arlong, kan?
-Dialogue: 0,0:06:49.00,0:06:49.76,Default,,0,0,0,,Tetap saja…
-Dialogue: 0,0:06:50.51,0:06:53.30,Default,,0,0,0,,Walau Gold Roger dieksekusi\N22 tahun yang lalu,
-Dialogue: 0,0:06:53.91,0:06:56.68,Default,,0,0,0,,kamu tidak ikut dibunuh juga\Npadahal kamu adalah wakil kapten?
-Dialogue: 0,0:06:59.05,0:07:01.10,Default,,0,0,0,,Angkatan laut menangkap semua kru, kan?
-Dialogue: 0,0:07:23.36,0:07:24.88,Default,,0,0,0,,Kami tidak ditangkap.
-Dialogue: 0,0:07:28.46,0:07:31.01,Default,,0,0,0,,Roger menyerahkan dirinya.
-Dialogue: 0,0:07:33.24,0:07:36.07,Default,,0,0,0,,Mungkin pemerintah membuatnya terdengar\Nseperti mereka menangkapnya
-Dialogue: 0,0:07:36.07,0:07:39.67,Default,,0,0,0,,untuk menunjukkan kekuatan mereka.
-Dialogue: 0,0:07:39.67,0:07:42.43,Default,,0,0,0,,Raja dari para Bajak Laut\Nmenyerahkan diri?! Kenapa?!
-Dialogue: 0,0:07:46.42,0:07:50.23,Default,,0,0,0,,Karena kami melihat akhir dari\Nperjalanan kami.
-Dialogue: 0,0:07:53.27,0:07:57.78,Default,,0,0,0,,Sekitar empat tahun\Nsebelum hari kematiannya,
-Dialogue: 0,0:07:58.34,0:08:01.83,Default,,0,0,0,,Roger memiliki penyakit yang mematikan.
-Dialogue: 0,0:08:03.16,0:08:06.88,Default,,0,0,0,,Bahkan Roger pun tidak bisa\Nmenghindari penderitaan
-Dialogue: 0,0:08:06.88,0:08:08.84,Default,,0,0,0,,dari penyakit yang tidak bisa\Ndisembuhkan itu.
-Dialogue: 0,0:08:09.46,0:08:14.48,Default,,0,0,0,,Tapi, ada seseorang yang memiliki\Nkemampuan untuk melepaskan penderitaanya:
-Dialogue: 0,0:08:14.48,0:08:17.76,Default,,0,0,0,,seseorang dari Twin Capes\Nyang bernama Crocus.
-Dialogue: 0,0:08:17.76,0:08:21.06,Default,,0,0,0,,Dia adalah penjaga mercusuar yang paling\Ndihormati dan seorang dokter di laut.
-Dialogue: 0,0:08:22.19,0:08:27.44,Default,,0,0,0,,Kami meminta bantuannya dan menjadikannya\Ndokter kapal untuk perjalanan terakhir kami.
-Dialogue: 0,0:08:27.44,0:08:31.48,Default,,0,0,0,,Akhirnya, tiga tahun kemudian, saat sedang\Nberusaha untuk menghindari kematian,
-Dialogue: 0,0:08:32.19,0:08:35.57,Default,,0,0,0,,Roger melakukan sesuatu\Nyang dibilang tidak mungkin:
-Dialogue: 0,0:08:35.57,0:08:37.25,Default,,0,0,0,,dia menaklukkan Grand Line.
-Dialogue: 0,0:08:45.79,0:08:49.90,Default,,0,0,0,,C-C-Crocus-san?!
-Dialogue: 0,0:08:49.90,0:08:51.42,Default,,0,0,0,,Dari Twin Capes?!
-Dialogue: 0,0:08:51.86,0:08:53.80,Default,,0,0,0,,Oh, aku jadi mengingat masa lalu!
-Dialogue: 0,0:08:53.80,0:08:58.66,Default,,0,0,0,,Hah?! Kakek itu tidak tinggal\Ndi sana selama 50 tahun?!
-Dialogue: 0,0:08:59.54,0:09:01.82,Default,,0,0,0,,Dia adalah anggota dari kru\NRaja dari para Bajak Laut?!
-Dialogue: 0,0:09:01.82,0:09:05.58,Default,,0,0,0,,Oh iya, dia bilang dia pernah bekerja\Nsebagai dokter kapal selama beberapa tahun!
-Dialogue: 0,0:09:06.06,0:09:09.06,Default,,0,0,0,,Jadi, dia adalah seorang bajak laut\Nselama tiga tahun itu?!
-Dialogue: 0,0:09:09.34,0:09:13.84,Default,,0,0,0,,Karena kalian bertemu dengannya,\Nartinya dia masih baik-baik saja!
-Dialogue: 0,0:09:14.35,0:09:16.12,Default,,0,0,0,,Crocus setuju untuk ikut dengan kami
-Dialogue: 0,0:09:16.12,0:09:20.32,Default,,0,0,0,,karena ada kelompok bajak laut\Nyang ingin ditemuinya.
-Dialogue: 0,0:09:20.58,0:09:25.20,Default,,0,0,0,,Brook! Dia pasti mencari kalian,\Ntidak salah lagi!
-Dialogue: 0,0:09:25.20,0:09:28.71,Default,,0,0,0,,Crocus-san…! Kamu sampai sejauh itu…!
-Dialogue: 0,0:09:28.71,0:09:32.12,Default,,0,0,0,,Dia menjadi anggota kru\Nhanya selama tiga tahun,
-Dialogue: 0,0:09:32.12,0:09:34.60,Default,,0,0,0,,Tapi dia adalah bagian dari kami!
-Dialogue: 0,0:09:35.29,0:09:38.72,Default,,0,0,0,,Di umur segini, aku akan senang\Njika bertemu dengannya lagi…
-Dialogue: 0,0:09:40.79,0:09:43.26,Default,,0,0,0,,Jadi, apa yang terjadi setelah\Ndia menaklukkan laut?
-Dialogue: 0,0:09:46.93,0:09:47.93,Default,,0,0,0,,Itulah awalnya.
-Dialogue: 0,0:09:49.02,0:09:52.15,Default,,0,0,0,,Seluruh dunia mulai memanggil Roger\Nsebagai "Raja dari para Bajak Laut".
-Dialogue: 0,0:09:53.41,0:09:56.18,Default,,0,0,0,,Dia belum pernah menjadi Raja\Ndari para Bajak Laut sebelumnya.
-Dialogue: 0,0:10:02.53,0:10:06.12,Default,,0,0,0,,Suatu gelar itu tidak berguna\Nbagi seseorang yang akan mati.
-Dialogue: 0,0:10:09.19,0:10:12.23,Default,,0,0,0,,Tapi, Roger terlalu menikmatinya.
-Dialogue: 0,0:10:18.21,0:10:22.55,Default,,0,0,0,,Dia senang melakukan sesuatu\Ndengan cara yang mencolok.
-Dialogue: 0,0:10:23.19,0:10:26.00,Default,,0,0,0,,Entah itu perayaan atau pertarungan…
-Dialogue: 0,0:10:26.72,0:10:29.83,Default,,0,0,0,,Bahkan sepertinya dia suka\Nmerencanakan masa depan,
-Dialogue: 0,0:10:29.83,0:10:32.21,Default,,0,0,0,,walau mungkin dia tidak akan ikut.
-Dialogue: 0,0:10:34.17,0:10:39.47,Default,,0,0,0,,Akhirnya, sesuai perintah kapten, Bajak\NLaut Roger dibubarkan secara diam-diam.
-Dialogue: 0,0:10:39.47,0:10:44.87,Default,,0,0,0,,Satu per satu, semuanya pergi diam-diam.
-Dialogue: 0,0:10:47.25,0:10:49.89,Default,,0,0,0,,Sebagai seorang teman, kami\Nmempertaruhkan nyawa kami bersama,
-Dialogue: 0,0:10:49.89,0:10:53.56,Default,,0,0,0,,tapi aku tidak tahu keberadaan mereka\Nataupun keadaan mereka sekarang.
-Dialogue: 0,0:10:57.14,0:10:59.72,Default,,0,0,0,,Lalu, sekitar satu tahun semenjak\Npembubaran kami,
-Dialogue: 0,0:11:00.33,0:11:02.90,Default,,0,0,0,,Roger menyerahkan dirinya dan dipenjara.
-Dialogue: 0,0:11:03.85,0:11:05.68,Default,,0,0,0,,Lalu ada pengumuman bahwa dia\Nakan dieksekusi di depan publik
-Dialogue: 0,0:11:05.68,0:11:10.54,Default,,0,0,0,,di Loguetown, kota di Laut Timur,\Ntempat di mana dia dilahirkan.
-Dialogue: 0,0:11:22.23,0:11:27.86,Default,,0,0,0,,Kudengar di hari itu banyak\Nanak muda di alun-alun kota
-Dialogue: 0,0:11:27.86,0:11:31.65,Default,,0,0,0,,yang pergi untuk membuat diri\Nmereka terkenal di hari ini.
-Dialogue: 0,0:11:32.90,0:11:36.82,Default,,0,0,0,,Seluruh dunia fokus pada eksekusi\NRaja dari para Bajak Laut itu.
-Dialogue: 0,0:11:49.33,0:11:51.52,Default,,0,0,0,,Aku tidak datang.
-Dialogue: 0,0:11:57.02,0:12:00.40,Default,,0,0,0,,Perkataan terakhirnya adalah…
-Dialogue: 0,0:12:24.43,0:12:27.46,Default,,0,0,0,,Aku tidak akan mati, teman…
-Dialogue: 0,0:12:35.35,0:12:37.94,Default,,0,0,0,,Pemerintah Dunia dan angkatan laut\Npasti sangat terkejut.
-Dialogue: 0,0:12:39.08,0:12:41.80,Default,,0,0,0,,Dengan perkataan terakhir Roger,
-Dialogue: 0,0:12:41.80,0:12:46.07,Default,,0,0,0,,eksekusi publik itu ditujukan sebagai\Ncontoh untuk para bajak laut lain
-Dialogue: 0,0:12:46.39,0:12:51.08,Default,,0,0,0,,dan bukan sebagai upacara pembukaan\Nuntuk Great Pirate Era!
-Dialogue: 0,0:12:52.48,0:12:54.50,Default,,0,0,0,,Harta karun-ku?
-Dialogue: 0,0:12:55.22,0:12:57.46,Default,,0,0,0,,Jika kau mau, kau bisa memilikinya.
-Dialogue: 0,0:12:57.46,0:12:58.91,Default,,0,0,0,,Carilah!
-Dialogue: 0,0:12:59.47,0:13:02.33,Default,,0,0,0,,Aku meninggalkan seluruh\Nkekayaan di dunia ini di sana!
-Dialogue: 0,0:13:04.34,0:13:07.77,Default,,0,0,0,,Di detik-detik terakhirnya, dia mengubah\Napi kehidupannya yang redup
-Dialogue: 0,0:13:08.27,0:13:11.22,Default,,0,0,0,,menjadi api neraka yang\Nmenyebar ke seluruh dunia!
-Dialogue: 0,0:13:21.03,0:13:23.25,Default,,0,0,0,,Aku tidak pernah tertawa sekeras\Nyang kulakukan di hari itu.
-Dialogue: 0,0:13:24.49,0:13:26.53,Default,,0,0,0,,Aku juga tidak pernah\Nmenangis sebanyak itu…
-Dialogue: 0,0:13:27.27,0:13:29.36,Default,,0,0,0,,…atau minum sebanyak\Nyang kuminum di hari itu.
-Dialogue: 0,0:13:30.65,0:13:35.11,Default,,0,0,0,,Kapten kami adalah pria yang luar biasa!
-Dialogue: 0,0:13:45.03,0:13:59.54,Default,,0,0,0,,= ONE PIECE =
-Dialogue: 0,0:14:03.03,0:14:05.73,Default,,0,0,0,,Rasanya seperti kita baru saja\Nmendengar sesuatu yang luar biasa!
-Dialogue: 0,0:14:06.25,0:14:09.93,Default,,0,0,0,,Ceritanya jadi terasa berbeda setelah\Nmendengar dari orangnya langsung!
-Dialogue: 0,0:14:09.93,0:14:14.33,Default,,0,0,0,,Sepertinya Roger sengaja menciptakan\NGreat Pirate Era!
-Dialogue: 0,0:14:14.75,0:14:18.16,Default,,0,0,0,,Itu… belum pasti.
-Dialogue: 0,0:14:20.35,0:14:22.67,Default,,0,0,0,,Roger telah meninggal.
-Dialogue: 0,0:14:22.89,0:14:27.62,Default,,0,0,0,,Hanya orang hidup yang bisa\Nmembuat era ini.
-Dialogue: 0,0:14:30.83,0:14:35.23,Default,,0,0,0,,Aku yakin ada beberapa orang yang\Nmenerima sesuatu dari Roger
-Dialogue: 0,0:14:35.23,0:14:37.02,Default,,0,0,0,,di alun-alun kota pada hari itu.
-Dialogue: 0,0:14:37.57,0:14:40.24,Default,,0,0,0,,Teman kalian, Shanks,\Nbisa jadi salah satunya,
-Dialogue: 0,0:14:40.24,0:14:42.35,Default,,0,0,0,,Eh? Kakek kenal Shanks?
-Dialogue: 0,0:14:42.71,0:14:46.52,Default,,0,0,0,,Apa kalian juga pernah mendengar\Nbajak laut dari Laut Timur bernama Buggy?
-Dialogue: 0,0:14:48.10,0:14:49.69,Default,,0,0,0,,Buggy…
-Dialogue: 0,0:14:50.00,0:14:54.16,Default,,0,0,0,,Mereka berdua adalah anak magang\Ndi kapal kami.
-Dialogue: 0,0:14:54.16,0:14:57.79,Default,,0,0,0,,Eh?! Shanks berada di kapal\NRaja dari para Bajak Laut?!
-Dialogue: 0,0:14:59.32,0:15:02.04,Default,,0,0,0,,Apa? Dia tidak memberi tahu kalian?
-Dialogue: 0,0:15:02.68,0:15:07.76,Default,,0,0,0,,Aku bertemu dengannya lagi\Ndi pulau ini sekitar 10 tahun lalu,
-Dialogue: 0,0:15:07.76,0:15:12.05,Default,,0,0,0,,dan dia kehilangan Straw Hatnya,\Nbersamaan dengan tangan kirinya.
-Dialogue: 0,0:15:13.46,0:15:17.22,Default,,0,0,0,,Ketika aku bertanya apa yang terjadi,\Ndia dengan senangnya bercerita tentangmu.
-Dialogue: 0,0:15:19.46,0:15:22.56,Default,,0,0,0,,Aku sangat terkejut, Rayleigh-san!
-Dialogue: 0,0:15:22.56,0:15:26.69,Default,,0,0,0,,Ada seorang anak di Laut Timur yang mengatakan\Nhal persis seperti yang dikatakan Kapten Roger.
-Dialogue: 0,0:15:27.85,0:15:30.40,Default,,0,0,0,,Perkataan yang persis seperti\Nyang dikatakan kapten kita!
-Dialogue: 0,0:15:31.42,0:15:37.37,Default,,0,0,0,,Dan aku ingin bertemu denganmu--\NMonkey D. Luffy--sejak saat itu.
-Dialogue: 0,0:15:42.79,0:15:44.08,Default,,0,0,0,,Shanks!
-Dialogue: 0,0:15:44.50,0:15:50.09,Default,,0,0,0,,Tapi aku tidak bisa menceritakan\Nhal-hal yang tidak Shanks katakan padamu.
-Dialogue: 0,0:15:50.09,0:15:52.76,Default,,0,0,0,,Bagaimanapun, kamu sudah hebat\Nkarena bisa sampai sejauh ini!
-Dialogue: 0,0:15:53.31,0:15:56.71,Default,,0,0,0,,Aku yakin dia sedang menunggumu\Ndi New World.
-Dialogue: 0,0:15:57.30,0:16:02.87,Default,,0,0,0,,Benarkah?! Kamu sungguh berpikir begitu?!\NAku juga ingin bertemu dengannya!
-Dialogue: 0,0:16:04.57,0:16:07.11,Default,,0,0,0,,Sekarang, mari kita bahas pekerjaan.
-Dialogue: 0,0:16:07.11,0:16:09.47,Default,,0,0,0,,Kalian ingin kapal kalian dilapisi, kan?
-Dialogue: 0,0:16:09.47,0:16:12.10,Default,,0,0,0,,Aku juga harus kembali bekerja.
-Dialogue: 0,0:16:12.10,0:16:16.69,Default,,0,0,0,,Aku jadi teringat, biaya untuk\Nmelapisi kapal itu mahal…
-Dialogue: 0,0:16:16.69,0:16:20.62,Default,,0,0,0,,Tenanglah, Hachi. Aku tidak bisa\Nmengambil uang dari teman-temanmu.
-Dialogue: 0,0:16:20.62,0:16:23.33,Default,,0,0,0,,Untunglah. Terima kasih, Rayleigh.
-Dialogue: 0,0:16:24.43,0:16:27.05,Default,,0,0,0,,Aku tidak tahu kenapa,\Ntapi dia melakukannya secara gratis!
-Dialogue: 0,0:16:27.05,0:16:30.05,Default,,0,0,0,,Kami menghargainya! Kamu baik sekali!
-Dialogue: 0,0:16:30.31,0:16:32.51,Default,,0,0,0,,Sepertinya kita bisa\Nmenghemat banyak uang!
-Dialogue: 0,0:16:42.22,0:16:43.27,Default,,0,0,0,,Rayleigh-san.
-Dialogue: 0,0:16:44.19,0:16:45.27,Default,,0,0,0,,Aku memiliki pertanyaan!
-Dialogue: 0,0:16:48.47,0:16:51.02,Default,,0,0,0,,"Will of D" itu apa?
-Dialogue: 0,0:16:52.73,0:16:56.36,Default,,0,0,0,,Nama Roger diukir dalam bahasa kuno
-Dialogue: 0,0:16:56.36,0:16:58.16,Default,,0,0,0,,di Poneglyph yang kulihat di Sky Island.
-Dialogue: 0,0:16:58.76,0:17:01.50,Default,,0,0,0,,Bagaimana dia bisa menggunakan\Nbahasa itu?!
-Dialogue: 0,0:17:02.20,0:17:06.76,Default,,0,0,0,,"Aku berhasil sampai ke sini.\NAku akan membawa pesan ini sampai akhir."
-Dialogue: 0,0:17:06.76,0:17:09.03,Default,,0,0,0,,"Bajak laut Gol D. Roger"
-Dialogue: 0,0:17:09.87,0:17:13.62,Default,,0,0,0,,Apa kalian tahu apa yang terjadi\Npada dunia
-Dialogue: 0,0:17:13.62,0:17:16.00,Default,,0,0,0,,saat Abad Kosong dimulai\N900 tahun lalu?!
-Dialogue: 0,0:17:24.18,0:17:26.02,Default,,0,0,0,,Iya. Kami tahu.
-Dialogue: 0,0:17:28.86,0:17:32.36,Default,,0,0,0,,Kami mempelajari seluruh sejarah.
-Dialogue: 0,0:17:40.91,0:17:44.42,Default,,0,0,0,,Tapi, Nona. Jangan terburu-buru.
-Dialogue: 0,0:17:45.25,0:17:48.81,Default,,0,0,0,,Kamu harus maju selangkah\Ndemi selangkah dengan kapalmu.
-Dialogue: 0,0:17:48.81,0:17:54.63,Default,,0,0,0,,Mungkin kami-- dan Ohara--\Nterlalu buru-buru.
-Dialogue: 0,0:17:55.86,0:18:00.09,Default,,0,0,0,,Bahkan jika aku menceritakan\Nseluruh sejarahnya kepadamu,
-Dialogue: 0,0:18:00.66,0:18:03.39,Default,,0,0,0,,kamu tetap tidak akan bisa\Nmelakukan apa pun seperti sekarang.
-Dialogue: 0,0:18:03.71,0:18:06.02,Default,,0,0,0,,Setelah kamu perlahan-lahan\Nmelihat dunia,
-Dialogue: 0,0:18:06.02,0:18:10.44,Default,,0,0,0,,mungkin kamu bisa mendapatkan\Njawaban yang berbeda dari kami.
-Dialogue: 0,0:18:10.82,0:18:13.31,Default,,0,0,0,,Tapi, jika kamu bersikeras\Ningin mendengarnya,
-Dialogue: 0,0:18:13.79,0:18:17.30,Default,,0,0,0,,aku bisa memberitahumu semua\Ntentang dunia ini sekarang.
-Dialogue: 0,0:18:26.31,0:18:30.50,Default,,0,0,0,,Tidak, terima kasih.\NAku akan melanjutkan perjalananku.
-Dialogue: 0,0:18:31.56,0:18:33.96,Default,,0,0,0,,Kamu akan melihat segalanya\Nsuatu hari nanti.
-Dialogue: 0,0:18:34.64,0:18:37.97,Default,,0,0,0,,Aku turut beduka atas apa yang terjadi\Npada kampung halamanmu di Ohara.
-Dialogue: 0,0:18:39.41,0:18:42.82,Default,,0,0,0,,Tapi, Roger tidak bisa\Nmembaca tulisan itu!
-Dialogue: 0,0:18:44.07,0:18:45.94,Default,,0,0,0,,Kami adalah bajak laut.
-Dialogue: 0,0:18:45.94,0:18:49.07,Default,,0,0,0,,Tidak mungkin kami bisa menandingi\Nkecerdasan orang jenius
-Dialogue: 0,0:18:49.07,0:18:51.02,Default,,0,0,0,,seperti Clover dan para ilmuan dari Ohara.
-Dialogue: 0,0:18:51.02,0:18:57.44,Default,,0,0,0,,Dia hanya mendengar suara alam semesta.
-Dialogue: 0,0:18:59.83,0:19:01.70,Default,,0,0,0,,Wah, apa kamu yakin, Robin?
-Dialogue: 0,0:19:01.70,0:19:03.99,Default,,0,0,0,,Apa kamu yakin akan melewatkan\Nkesempatan ini?!
-Dialogue: 0,0:19:04.68,0:19:07.62,Default,,0,0,0,,Umm, kakek! Ada satu hal lagi\Nyang ingin kutanyakan!
-Dialogue: 0,0:19:07.62,0:19:10.04,Default,,0,0,0,,Harta karun legendaris, One Piece!
-Dialogue: 0,0:19:10.04,0:19:10.91,Default,,0,0,0,,Apa itu sungguh--?!
-Dialogue: 0,0:19:10.91,0:19:16.00,Default,,0,0,0,,Usopp!
-Dialogue: 0,0:19:23.93,0:19:26.87,Default,,0,0,0,,Aku tidak mau tahu keberadaan\Nharta karun itu!
-Dialogue: 0,0:19:26.87,0:19:29.14,Default,,0,0,0,,Aku tidak ingin tahu apa harta karun\Nitu sungguh ada atau tidak!
-Dialogue: 0,0:19:29.47,0:19:32.18,Default,,0,0,0,,Kita sudah mempertaruhkan\Nnyawa kita dan berlayar di laut,
-Dialogue: 0,0:19:32.18,0:19:34.02,Default,,0,0,0,,walau tidak mengetahui apa-apa!
-Dialogue: 0,0:19:34.48,0:19:38.73,Default,,0,0,0,,Aku akan berhenti menjadi bajak laut\Njika kakek itu memberi tahu semuanya!
-Dialogue: 0,0:19:39.48,0:19:42.28,Default,,0,0,0,,Aku tidak akan melakukan\Npetualangan yang membosankan!
-Dialogue: 0,0:19:44.83,0:19:49.32,Default,,0,0,0,,M-M-Maaf!\NAku tahu, tapi aku kelepasan…!
-Dialogue: 0,0:19:49.32,0:19:51.08,Default,,0,0,0,,A-Aku juga tidak ingin mengetahuinya!
-Dialogue: 0,0:19:51.30,0:19:54.73,Default,,0,0,0,,Oh, iya! Aku memiliki penyakit "Aku Akan\NMati Jika Mengetahui Tentang One Piece"!
-Dialogue: 0,0:19:54.73,0:19:57.48,Default,,0,0,0,,Kakek, tunggu! Jangan mengatakan apa pun!
-Dialogue: 0,0:19:59.15,0:20:01.46,Default,,0,0,0,,Apa kamu yakin bisa melakukannya?
-Dialogue: 0,0:20:02.35,0:20:07.11,Default,,0,0,0,,Grand Line itu lebih dari apa yang\Nkamu bayangkan!
-Dialogue: 0,0:20:07.11,0:20:08.60,Default,,0,0,0,,Musuhmu juga kuat.
-Dialogue: 0,0:20:09.05,0:20:12.07,Default,,0,0,0,,Apa kamu bisa menguasai lautan ini?!
-Dialogue: 0,0:20:22.66,0:20:25.04,Default,,0,0,0,,Aku tidak akan menguasai apa pun!
-Dialogue: 0,0:20:25.04,0:20:28.20,Default,,0,0,0,,Menjadi Raja dari para Bajak Laut berarti\Nmenjadi lebih bebas daripada siapa pun.
-Dialogue: 0,0:20:33.52,0:20:34.75,Default,,0,0,0,,Baiklah…
-Dialogue: 0,0:20:35.34,0:20:38.70,Default,,0,0,0,,Aku adalah penggemarmu, Monkey-chan.
-Dialogue: 0,0:20:38.70,0:20:41.85,Default,,0,0,0,,Kapal kalian ada di Grove 41, kan?
-Dialogue: 0,0:20:41.85,0:20:43.94,Default,,0,0,0,,Aku akan pergi ke sana.
-Dialogue: 0,0:20:44.52,0:20:45.84,Default,,0,0,0,,Apa yang akan kalian lakukan?
-Dialogue: 0,0:20:45.84,0:20:48.30,Default,,0,0,0,,Mungkin laksamana sudah datang\Nsaat kita sedang bicara.
-Dialogue: 0,0:20:48.63,0:20:51.34,Default,,0,0,0,,Kita hanya akan mengganggu jika\Nmenetap di sini,
-Dialogue: 0,0:20:51.34,0:20:53.66,Default,,0,0,0,,jadi apa kita belanja saja?!
-Dialogue: 0,0:20:53.66,0:20:55.36,Default,,0,0,0,,Kenapa kamu santai sekali?!
-Dialogue: 0,0:20:55.36,0:20:57.79,Default,,0,0,0,,Kita adalah buronan!\NKita harus bersembunyi, bodoh!
-Dialogue: 0,0:20:57.79,0:21:02.40,Default,,0,0,0,,Iya. Orang-orang yang mengejar kita\Nbisa muncul jika kita tetap bersama.
-Dialogue: 0,0:21:02.40,0:21:07.28,Default,,0,0,0,,Akan lebih mudah untuknya bekerja\Njika kita bersembunyi di suatu tempat.
-Dialogue: 0,0:21:07.55,0:21:11.91,Default,,0,0,0,,Jadi, mari berpencar lalu bertemu\Nkembali di sana saat dia selesai.
-Dialogue: 0,0:21:12.61,0:21:16.75,Default,,0,0,0,,Memangnya kamu siapa sampai\Nmembuat rencana seperti itu?!
-Dialogue: 0,0:21:17.03,0:21:19.09,Default,,0,0,0,,Shakky. Apa kita memilikinya?
-Dialogue: 0,0:21:19.09,0:21:21.92,Default,,0,0,0,,Iya, masih sisa satu.
-Dialogue: 0,0:21:22.29,0:21:24.46,Default,,0,0,0,,Ini adalah Kertas Kehidupan!
-Dialogue: 0,0:21:24.46,0:21:26.84,Default,,0,0,0,,Oh, baguslah jika kalian mengetahuinya.
-Dialogue: 0,0:21:27.23,0:21:29.65,Default,,0,0,0,,Karena aku lumayan terkenal,
-Dialogue: 0,0:21:29.65,0:21:33.81,Default,,0,0,0,,sepertinya aku akan memindahkannya dari\NGrove 41 ke tempat lain sebelum bekerja.
-Dialogue: 0,0:21:34.48,0:21:36.77,Default,,0,0,0,,Akan butuh tiga hari untuk\Nmenyelesaikannya.
-Dialogue: 0,0:21:37.44,0:21:39.00,Default,,0,0,0,,Membutuhkan tiga hari?!
-Dialogue: 0,0:21:39.00,0:21:41.93,Default,,0,0,0,,Hidup kalian bergantung pada ini.\NItu sudah paling cepat.
-Dialogue: 0,0:21:42.45,0:21:45.56,Default,,0,0,0,,Jadi, kita harus bertahan selama tiga hari!
-Dialogue: 0,0:21:46.39,0:21:47.03,Default,,0,0,0,,Mengerikan!
-Dialogue: 0,0:21:47.35,0:21:50.13,Default,,0,0,0,,Anggap saja tiga malam.
-Dialogue: 0,0:21:50.13,0:21:55.57,Default,,0,0,0,,Aku tidak tahu akan pergi ke grove mana,\Njadi kemana pun Kertas Kehidupan membawa kalian,
-Dialogue: 0,0:21:55.57,0:21:58.48,Default,,0,0,0,,aku akan berada di sana,\Nbekerja dan menunggu kalian.
-Dialogue: 0,0:21:59.42,0:22:02.04,Default,,0,0,0,,Sebaiknya kalian membeli barang\Nyang akan kalian butuhkan
-Dialogue: 0,0:22:02.04,0:22:04.26,Default,,0,0,0,,untuk perjalanan kalian\Nke Fish-Man Island.
-Dialogue: 0,0:22:04.80,0:22:07.79,Default,,0,0,0,,Luffy-chin! Semuanya!\NTerima kasih banyak!
-Dialogue: 0,0:22:07.79,0:22:09.97,Default,,0,0,0,,Iya! Terima kasih banyak!
-Dialogue: 0,0:22:10.24,0:22:13.47,Default,,0,0,0,,Maaf telah membuat banyak\Nmasalah pada kalian!
-Dialogue: 0,0:22:13.69,0:22:15.68,Default,,0,0,0,,Aku sungguh berterima kasih pada kalian!
-Dialogue: 0,0:22:15.68,0:22:18.98,Default,,0,0,0,,Kami akan mengantar kalian ke\NFish-Man Island, jadi jangan khawatir!
-Dialogue: 0,0:22:18.98,0:22:21.23,Default,,0,0,0,,Berhati-hatilah terhadap angkatan laut\Nselama tiga hari ke depan!
-Dialogue: 0,0:22:21.47,0:22:23.56,Default,,0,0,0,,Hachi! Istirahatlah yang banyak!
-Dialogue: 0,0:22:23.85,0:22:27.44,Default,,0,0,0,,Mari bertemu lagi dalam tiga hari.\NKami akan mengantar kalian.
-Dialogue: 0,0:22:27.66,0:22:29.27,Default,,0,0,0,,Sampai jumpa, nona!
-Dialogue: 0,0:22:31.14,0:22:34.66,Default,,0,0,0,,Kita melawan seorang laksamana!\NKita tidak boleh mati!
-Dialogue: 0,0:22:34.66,0:22:37.25,Default,,0,0,0,,Jangan mengucapkan hal seperti itu!
-Dialogue: 0,0:22:39.18,0:22:40.67,Default,,0,0,0,,Tiga hari, ya…
-Dialogue: 0,0:22:40.67,0:22:41.96,Default,,0,0,0,,Baiklah! Ayo!
-Dialogue: 0,0:22:41.96,0:22:43.07,Default,,0,0,0,,Ke taman bermain!
-Dialogue: 0,0:22:43.07,0:22:44.09,Default,,0,0,0,,Hei!
-Dialogue: 0,0:22:45.38,0:22:48.52,Default,,0,0,0,,Ada kapal perang angkatan laut\Ndi pelabuhan!
-Dialogue: 0,0:22:48.52,0:22:49.72,Default,,0,0,0,,Laksamana telah datang!
-Dialogue: 0,0:23:04.24,0:23:06.32,Default,,0,0,0,,Ini dari Kizaru.
-Dialogue: 0,0:23:07.12,0:23:09.15,Default,,0,0,0,,Aku sudah sampai.
-Dialogue: 0,0:23:09.15,0:23:11.94,Default,,0,0,0,,Tolong merespon.
-Dialogue: 0,0:23:11.97,0:23:15.02,Default,,0,0,0,,(Bersambung)
-Dialogue: 0,0:23:15.06,0:23:17.06,Default,,0,0,0,,= ONE PIECE =
-Dialogue: 0,0:23:20.39,0:23:22.42,Default,,0,0,0,,Apa laksamana sungguh datang?
-Dialogue: 0,0:23:22.42,0:23:23.80,Default,,0,0,0,,Aku tidak mau menemuinya!
-Dialogue: 0,0:23:23.80,0:23:28.41,Default,,0,0,0,,Yang pernah kita temui, Aokji, sangat kuat\Ndengan kekuatan Devil Fruit yang dingin itu!
-Dialogue: 0,0:23:28.41,0:23:32.55,Default,,0,0,0,,Gawat! Pasti laksamana yang lain\Njuga memiliki kemampuan!
-Dialogue: 0,0:23:32.55,0:23:34.51,Default,,0,0,0,,Aku takut!
-Dialogue: 0,0:23:34.51,0:23:36.00,Default,,0,0,0,,Episode selanjutnya di One Piece!
-Dialogue: 0,0:23:36.00,0:23:39.35,Default,,0,0,0,,(Tidak Bisa Kabur?!\NLight Speed Kick Laksamana Kizaru!!)
-Dialogue: 0,0:23:39.61,0:23:41.65,Default,,0,0,0,,Aku akan menjadi King of Pirates!!
-Dialogue: 0,0:23:45.05,0:23:50.05,Default,,0,0,0,,(Bersambung)
+Dialogue: 0,0:02:39.80,0:02:42.76,Default,,0,0,0,,♫Dan membuat keributan yang menakjubkan…♫
+Dialogue: 0,0:02:47.98,0:02:51.06,Default,,0,0,0,,Waktunya Era Kejayaan Bajak Laut.
+Dialogue: 0,0:02:51.06,0:02:55.06,Default,,0,0,0,,Bajak laut tak terhitung berjuang\Nmati-matian untuk One Piece,
+Dialogue: 0,0:02:55.06,0:02:58.71,Default,,0,0,0,,harta karun besar yang ditinggalkan\Noleh Gold Roger, King of Pirates.
+Dialogue: 0,0:02:59.90,0:03:02.81,Default,,0,0,0,,Monkey D. Luffy, anak laki-laki\Nyang tubuhnya berubah jadi karet
+Dialogue: 0,0:03:02.81,0:03:04.73,Default,,0,0,0,,setelah dia memakan Gomu Gomu no Mi,
+Dialogue: 0,0:03:04.73,0:03:07.61,Default,,0,0,0,,juga dibawa ke laut untuk\Nmenjadi King of Pirates berikutnya.
+Dialogue: 0,0:03:07.61,0:03:11.64,Default,,0,0,0,,Saat Luffy dan teman-temannya\Nmengatasi banyak petualangan,
+Dialogue: 0,0:03:11.64,0:03:16.34,Default,,0,0,0,,Pemerintah Dunia semakin\Ntidak bisa mengabaikan keberadaan mereka.
+Dialogue: 0,0:03:17.54,0:03:19.18,Default,,0,0,0,,Ini menyenangkan!
+Dialogue: 0,0:03:19.94,0:03:22.80,Default,,0,0,0,,Petualangan macam apa\Nyang menunggu kita selanjutnya?!
+Dialogue: 0,0:03:23.25,0:03:26.38,Default,,0,0,0,,Para kru, dalam perjalanan ke New World,
+Dialogue: 0,0:03:26.38,0:03:29.69,Default,,0,0,0,,akan melaju di sepanjang Grand Line lagi hari ini!
+Dialogue: 0,0:03:34.04,0:03:37.67,Default,,0,0,0,,Setelah kru Straw Hat\Nmenyelamatkan Mermaid Princess Camie,
+Dialogue: 0,0:03:37.67,0:03:42.12,Default,,0,0,0,,mereka bertemu Rayleigh, pengrajin\Nyang mereka cari, di Auction house.
+Dialogue: 0,0:03:44.58,0:03:46.70,Default,,0,0,0,,Roger menyerahkan diri.
+Dialogue: 0,0:03:50.53,0:03:53.79,Default,,0,0,0,,Aku tidak akan mati, rekan...
+Dialogue: 0,0:03:54.03,0:03:56.07,Default,,0,0,0,,Harta karunku?
+Dialogue: 0,0:03:56.77,0:03:59.04,Default,,0,0,0,,Jika kau mau. Kau bisa ambil!
+Dialogue: 0,0:03:59.04,0:04:00.44,Default,,0,0,0,,Temukan!
+Dialogue: 0,0:04:00.94,0:04:03.88,Default,,0,0,0,,Aku tinggalkan semua\Nyang ditawarkan dunia ini di sana!
+Dialogue: 0,0:04:04.25,0:04:06.55,Default,,0,0,0,,Apa kau pikir kau bisa melakukannya?
+Dialogue: 0,0:04:06.87,0:04:11.65,Default,,0,0,0,,Grand Line masih jauh melampaui\Napa pun yang dapat kau bayangkan!
+Dialogue: 0,0:04:11.65,0:04:13.03,Default,,0,0,0,,Musuhmu juga akan kuat.
+Dialogue: 0,0:04:13.59,0:04:16.71,Default,,0,0,0,,Bisakah kau menguasai laut perkasa ini?!
+Dialogue: 0,0:04:17.94,0:04:20.36,Default,,0,0,0,,Aku takkan memerintah apa pun!
+Dialogue: 0,0:04:20.36,0:04:23.23,Default,,0,0,0,,Orang paling bebas di laut\Nyang merupakan King of Pirates!
+Dialogue: 0,0:04:24.63,0:04:26.11,Default,,0,0,0,,Paham...
+Dialogue: 0,0:04:29.41,0:04:34.08,Default,,0,0,0,,(Tak Bisa Kabur!? Tendangan\NKecepatan Cahaya Laksamana Kizaru!!)
+Dialogue: 0,0:04:39.72,0:04:41.63,Default,,0,0,0,,Hati hati!
+Dialogue: 0,0:04:41.94,0:04:44.38,Default,,0,0,0,,Jangan lakukan hal gila!
+Dialogue: 0,0:04:46.01,0:04:48.36,Default,,0,0,0,,Ya! Sama untuk kalian!
+Dialogue: 0,0:04:48.36,0:04:49.98,Default,,0,0,0,,Ucapkan selamat tinggal\Npada Hachi untuk kita juga!
+Dialogue: 0,0:04:53.41,0:04:56.66,Default,,0,0,0,,Bagaimana di atas. Kita akan\Nbertemu mereka lagi dalam tiga hari...
+Dialogue: 0,0:04:57.97,0:04:59.93,Default,,0,0,0,,Selalu sedih untuk ucapkan selamat tinggal.
+Dialogue: 0,0:05:00.21,0:05:02.46,Default,,0,0,0,,Sampai jumpa lagi!
+Dialogue: 0,0:05:03.53,0:05:05.82,Default,,0,0,0,,Baiklah. Aku juga harus pergi.
+Dialogue: 0,0:05:06.04,0:05:07.86,Default,,0,0,0,,Baik! Kami mengandalkanmu!
+Dialogue: 0,0:05:13.64,0:05:17.22,Default,,0,0,0,,Tetap saja, itu benar mengejutkan\Nuntuk bertemu seorang anggota
+Dialogue: 0,0:05:17.22,0:05:20.41,Default,,0,0,0,,kru King of Pirates di tempat seperti ini.
+Dialogue: 0,0:05:22.17,0:05:27.17,Default,,0,0,0,,Dia sungguh pria yang intimidasi,\Nuntuk seorang kakek tua.
+Dialogue: 0,0:05:27.17,0:05:31.67,Default,,0,0,0,,Yah, dia pria paling terkenal di kru Roger!
+Dialogue: 0,0:05:33.28,0:05:36.19,Default,,0,0,0,,Jadi seperti itulah kru di Oro Jackson...
+Dialogue: 0,0:05:36.81,0:05:43.41,Default,,0,0,0,,Aku sangat bangga dengan fakta\Nbahwa aku membantu pria bernama Roger!
+Dialogue: 0,0:05:45.22,0:05:46.40,Default,,0,0,0,,Aku senang bertemu dengannya!
+Dialogue: 0,0:05:48.60,0:05:51.68,Default,,0,0,0,,Aku tak tahu kau tipe orang\Nyang menghormati atasanmu...!
+Dialogue: 0,0:05:51.68,0:05:54.79,Default,,0,0,0,,Y-Yah, kadang-kadang aku lakukan!
+Dialogue: 0,0:05:55.91,0:05:56.88,Default,,0,0,0,,Hei.
+Dialogue: 0,0:05:59.09,0:06:00.81,Default,,0,0,0,,Mau pergi ke taman hiburan?!
+Dialogue: 0,0:06:00.81,0:06:02.21,Default,,0,0,0,,Diam, kau!
+Dialogue: 0,0:06:02.50,0:06:04.44,Default,,0,0,0,,Apa kau memahami situasinya?!
+Dialogue: 0,0:06:04.44,0:06:06.67,Default,,0,0,0,,Kau belum belajar pelajaranmu?!
+Dialogue: 0,0:06:07.63,0:06:09.14,Default,,0,0,0,,Aku ingin pergi...!
+Dialogue: 0,0:06:09.14,0:06:10.68,Default,,0,0,0,,Bukan kalian juga!
+Dialogue: 0,0:06:13.80,0:06:17.43,Default,,0,0,0,,Itu Laksamana Kizaru! Satu-satunya hal\Nyang harus dilakukan kini adalah lari!
+Dialogue: 0,0:06:17.88,0:06:19.76,Default,,0,0,0,,Dapatkan bajak laut!
+Dialogue: 0,0:06:21.52,0:06:22.61,Default,,0,0,0,,Halo?
+Dialogue: 0,0:06:22.97,0:06:25.12,Default,,0,0,0,,Ada buronan di mana-mana!
+Dialogue: 0,0:06:25.12,0:06:26.81,Default,,0,0,0,,Hati-hati dengan yang\Nbernilai lebih dari 100 juta!
+Dialogue: 0,0:06:26.81,0:06:29.39,Default,,0,0,0,,- Lari\N- Lari!
+Dialogue: 0,0:06:30.27,0:06:37.95,Default,,0,0,0,,Halo? Ini Kizaru. Hmm? Betapa anehnya...
+Dialogue: 0,0:06:39.49,0:06:42.24,Default,,0,0,0,,(Laksamana Markas Besar Angkatan Laut\N- Kizaru (Nama Asli: Borsalino)) Halo?
+Dialogue: 0,0:06:42.92,0:06:45.52,Default,,0,0,0,,Itu aneh...
+Dialogue: 0,0:06:45.52,0:06:47.67,Default,,0,0,0,,I-Ini benar-benar buruk!
+Dialogue: 0,0:06:48.04,0:06:50.34,Default,,0,0,0,,M-Masih ada sedikit kesempatan!
+Dialogue: 0,0:06:50.34,0:06:55.01,Default,,0,0,0,,Jika ada sedikit keberuntungan aku bisa\Nkalahkannya, aku akan mendadak jadi terkenal!
+Dialogue: 0,0:06:55.01,0:06:57.30,Default,,0,0,0,,Hah?! Jangan bodoh!
+Dialogue: 0,0:06:57.30,0:06:59.68,Default,,0,0,0,,Ini kekuatan angkatan laut militer terbesar\Nyang sedang kita bicarakan!
+Dialogue: 0,0:07:03.37,0:07:06.99,Default,,0,0,0,,Halo? Apa kau membacaku?
+Dialogue: 0,0:07:06.99,0:07:09.06,Default,,0,0,0,,- Sekarang! Ambil ini!\N- B-Berhenti...!
+Dialogue: 0,0:07:14.15,0:07:16.04,Default,,0,0,0,,Halo?
+Dialogue: 0,0:07:17.04,0:07:18.91,Default,,0,0,0,,Halo?
+Dialogue: 0,0:07:18.91,0:07:22.03,Default,,0,0,0,,- H-Hei! - Sial! Aku akan menangkapmu kali ini!
+Dialogue: 0,0:07:28.11,0:07:31.12,Default,,0,0,0,,Hah?! Apa...?! Aku jelas mengenainya saat itu!
+Dialogue: 0,0:07:31.12,0:07:32.55,Default,,0,0,0,,Itu menembus kepalanya, kan?!
+Dialogue: 0,0:07:33.12,0:07:35.43,Default,,0,0,0,,Betapa anehnya...
+Dialogue: 0,0:07:35.72,0:07:38.07,Default,,0,0,0,,Dia jelas punya semacam kekuatan!
+Dialogue: 0,0:07:38.07,0:07:40.36,Default,,0,0,0,,Senjata takkan mempan padanya! Ayo lari!
+Dialogue: 0,0:07:45.60,0:07:49.23,Default,,0,0,0,,Katakanlah, aku ingin tahu\Napa kau bisa membantuku...
+Dialogue: 0,0:07:51.58,0:07:55.57,Default,,0,0,0,,Aku mencari pria bernama Sentomaru...
+Dialogue: 0,0:07:56.66,0:07:59.65,Default,,0,0,0,,Dia bawahanku, kau tahu...
+Dialogue: 0,0:08:00.99,0:08:04.42,Default,,0,0,0,,Sheesh. Yang kulakukan\Nhanya ajukan pertanyaan...
+Dialogue: 0,0:08:40.82,0:08:43.00,Default,,0,0,0,,Uhh, kupikir Kizaru-san sedikit berlebihan...
+Dialogue: 0,0:08:43.00,0:08:46.22,Default,,0,0,0,,Dia tahu lebih baik daripada\Nhancurkan Hustle Muscle Mangroves!
+Dialogue: 0,0:08:47.67,0:08:51.85,Default,,0,0,0,,Aku pikir aku sedikit berlebihan...
+Dialogue: 0,0:08:55.68,0:08:57.50,Default,,0,0,0,,Bicara tentang gila...
+Dialogue: 0,0:08:57.50,0:08:59.27,Default,,0,0,0,,Jadi itu Laksamana Kizaru, ya?
+Dialogue: 0,0:08:59.27,0:09:03.96,Default,,0,0,0,,Apoo-san! Kita juga dalam bahaya!\NKita harus pergi dari sini!
+Dialogue: 0,0:09:04.50,0:09:06.00,Default,,0,0,0,,Kau sangat bodoh.
+Dialogue: 0,0:09:06.84,0:09:08.94,Default,,0,0,0,,Di mana kesenangan menyelinap pergi?
+Dialogue: 0,0:09:08.94,0:09:11.63,Default,,0,0,0,,Tak ada yang bisa kalahkan kabur\Nsetelah membuat musuh marah...
+Dialogue: 0,0:09:11.63,0:09:13.19,Default,,0,0,0,,Apa yang kau rencanakan?!
+Dialogue: 0,0:09:18.42,0:09:20.57,Default,,0,0,0,,Ayolah! Ambil langkahnya!
+Dialogue: 0,0:09:20.57,0:09:22.28,Default,,0,0,0,,Banyak yang lolos...
+Dialogue: 0,0:09:22.28,0:09:23.98,Default,,0,0,0,,Ya.
+Dialogue: 0,0:09:27.32,0:09:29.21,Default,,0,0,0,,Meminta cadangan di pelabuhan!
+Dialogue: 0,0:09:29.67,0:09:30.59,Default,,0,0,0,,Apa yang terjadi?!
+Dialogue: 0,0:09:30.59,0:09:31.89,Default,,0,0,0,,Aku tak tahu!
+Dialogue: 0,0:09:32.07,0:09:33.87,Default,,0,0,0,,Aku tak tahu mengapa,
+Dialogue: 0,0:09:33.87,0:09:38.04,Default,,0,0,0,,tetapi semua prajurit telah berubah\Nmenjadi anak-anak atau orang tua!
+Dialogue: 0,0:09:38.04,0:09:40.34,Default,,0,0,0,,Apa yang sedang terjadi?!
+Dialogue: 0,0:09:40.34,0:09:42.30,Default,,0,0,0,,Oh... Punggungku sakit...!
+Dialogue: 0,0:09:46.39,0:09:47.49,Default,,0,0,0,,Mahakarya!
+Dialogue: 0,0:09:49.36,0:09:51.86,Default,,0,0,0,,Itu dia yang lakukan!
+Dialogue: 0,0:09:51.86,0:09:56.51,Default,,0,0,0,,Itu Jewelry Bonney! Dia bernilai 140 juta!
+Dialogue: 0,0:10:00.41,0:10:02.29,Default,,0,0,0,,Kau lebih suka yang mana?
+Dialogue: 0,0:10:07.27,0:10:08.51,Default,,0,0,0,,Apa yang terjadi?!
+Dialogue: 0,0:10:08.87,0:10:11.11,Default,,0,0,0,,Halo?! Tanggapi!
+Dialogue: 0,0:10:14.37,0:10:16.35,Default,,0,0,0,,Hati-hati dengan Rookie\Nyang bernilai lebih dari 100 juta!
+Dialogue: 0,0:10:16.64,0:10:19.27,Default,,0,0,0,,Aku ulangi, hati-hati dengan Rookie\Nyang bernilai lebih dari 100 juta!
+Dialogue: 0,0:10:20.30,0:10:25.18,Default,,0,0,0,,Kau Capone Gang Bege, senilai 138 juta, kan?!
+Dialogue: 0,0:10:25.55,0:10:27.51,Default,,0,0,0,,Kau bisa lupakan tentang berlayar!
+Dialogue: 0,0:10:29.06,0:10:31.35,Default,,0,0,0,,Di mana krumu?! Lenyap sendiri?!
+Dialogue: 0,0:10:31.35,0:10:33.91,Default,,0,0,0,,Kau salah satu bajingan\Nyang tak beruntung! Serahkan dirimu!
+Dialogue: 0,0:10:36.13,0:10:39.91,Default,,0,0,0,,Dalam hal kekuatan pasukan, kau kalah!
+Dialogue: 0,0:10:48.94,0:10:50.18,Default,,0,0,0,,Keributan apa ini?!
+Dialogue: 0,0:10:50.66,0:10:52.26,Default,,0,0,0,,Kapten Hawkins!
+Dialogue: 0,0:10:52.96,0:10:54.96,Default,,0,0,0,,Tak perlu terburu-buru.
+Dialogue: 0,0:10:55.50,0:10:57.79,Default,,0,0,0,,Nasib sudah ditentukan.
+Dialogue: 0,0:10:59.38,0:11:03.06,Default,,0,0,0,,Katakanlah, apa kau dapat membantuku...
+Dialogue: 0,0:11:04.14,0:11:05.14,Default,,0,0,0,,K-Kizaru?!
+Dialogue: 0,0:11:05.35,0:11:08.90,Default,,0,0,0,,- K-Kami akan membuatnya sibuk di sini!\N- Tolong kabur, Kapten!
+Dialogue: 0,0:11:10.64,0:11:15.07,Default,,0,0,0,,Jangan panik. Aku takkan mati hari ini.
+Dialogue: 0,0:11:29.17,0:11:31.17,Default,,0,0,0,,Bagaimana kau suka itu?! Kau hangus hitam!
+Dialogue: 0,0:11:36.67,0:11:39.12,Default,,0,0,0,,Kembalilah, Kid Pirates!
+Dialogue: 0,0:11:50.29,0:11:52.41,Default,,0,0,0,,Aduh! Sangat sulit!
+Dialogue: 0,0:11:58.15,0:11:59.24,Default,,0,0,0,,Room.
+Dialogue: 0,0:12:03.36,0:12:04.46,Default,,0,0,0,,Shambles!
+Dialogue: 0,0:12:08.98,0:12:09.74,Default,,0,0,0,,Aku mendapatkanmu sekarang!
+Dialogue: 0,0:12:10.07,0:12:12.36,Default,,0,0,0,,Aduh! Hah?
+Dialogue: 0,0:12:15.14,0:12:16.30,Default,,0,0,0,,Betapa menjengkelkan!
+Dialogue: 0,0:12:17.88,0:12:19.59,Default,,0,0,0,,Lalu bagaimana dengan ini?!
+Dialogue: 0,0:12:28.72,0:12:30.61,Default,,0,0,0,,Bajingan yang merepotkan...
+Dialogue: 0,0:12:35.40,0:12:37.49,Default,,0,0,0,,Ini belum berakhir, Eustass-ya!
+Dialogue: 0,0:12:44.46,0:12:47.36,Default,,0,0,0,,Sepertinya kau masih belum cukup denganku!
+Dialogue: 0,0:13:03.14,0:13:05.93,Default,,0,0,0,,Aku bilang, kita harus bersembunyi\Ndi taman hiburan!
+Dialogue: 0,0:13:05.93,0:13:07.04,Default,,0,0,0,,Pembohong.
+Dialogue: 0,0:13:07.04,0:13:09.59,Default,,0,0,0,,Kau ingin pergi dan bersenang-senang!
+Dialogue: 0,0:13:14.72,0:13:16.02,Default,,0,0,0,,Ini tak mungkin!
+Dialogue: 0,0:13:20.35,0:13:21.28,Default,,0,0,0,,Siapa kau?!
+Dialogue: 0,0:13:26.62,0:13:28.29,Default,,0,0,0,,Serangan musuh!
+Dialogue: 0,0:13:33.17,0:13:34.74,Default,,0,0,0,,Cepat!
+Dialogue: 0,0:13:34.74,0:13:37.21,Default,,0,0,0,,Mulai serangan! Meriam, siap!
+Dialogue: 0,0:13:37.21,0:13:39.47,Default,,0,0,0,,Buka gunports!
+Dialogue: 0,0:13:43.94,0:13:45.59,Default,,0,0,0,,Mulai pengeboman!
+Dialogue: 0,0:13:45.59,0:13:46.64,Default,,0,0,0,,Apa?!
+Dialogue: 0,0:13:46.64,0:13:48.00,Default,,0,0,0,,Tembak!
+Dialogue: 0,0:13:51.69,0:13:52.68,Default,,0,0,0,,Apa...?!
+Dialogue: 0,0:13:52.68,0:13:54.84,Default,,0,0,0,,Ada benda di dalam tubuhnya!
+Dialogue: 0,0:14:00.03,0:14:00.94,Default,,0,0,0,,Ternyata besar- !
+Dialogue: 0,0:14:04.09,0:14:05.59,Default,,0,0,0,,Apa yang sedang terjadi?!
+Dialogue: 0,0:14:05.59,0:14:07.48,Default,,0,0,0,,Dia tak lakukan apa-apa sendiri!
+Dialogue: 0,0:14:10.25,0:14:12.82,Default,,0,0,0,,Kavaleri! Ganti!
+Dialogue: 0,0:14:13.07,0:14:15.17,Default,,0,0,0,,Sesuatu yang lain keluar dari perutnya sekarang!
+Dialogue: 0,0:14:16.75,0:14:18.13,Default,,0,0,0,,Pasukan terus keluar!
+Dialogue: 0,0:14:19.59,0:14:21.59,Default,,0,0,0,,I-Ini kuda kali ini!
+Dialogue: 0,0:14:26.94,0:14:28.30,Default,,0,0,0,,Capone Gang Bege!
+Dialogue: 0,0:14:28.70,0:14:32.17,Default,,0,0,0,,Apa kekuatan yang dimiliki orang itu?!
+Dialogue: 0,0:14:32.45,0:14:34.70,Default,,0,0,0,,Pasukan tembak! Fokus!
+Dialogue: 0,0:14:34.70,0:14:36.56,Default,,0,0,0,,Asap apa ini?!
+Dialogue: 0,0:14:37.58,0:14:39.61,Default,,0,0,0,,Ayah! Ada terlalu banyak asap!
+Dialogue: 0,0:14:40.87,0:14:43.99,Default,,0,0,0,,Kukatakan kau tak memiliki\Nkekuatan pasukan yang cukup!
+Dialogue: 0,0:14:44.01,0:14:58.52,Default,,0,0,0,,= ONE PIECE =
+Dialogue: 0,0:14:58.68,0:15:00.62,Default,,0,0,0,,Keluar dari sini! Cepat!
+Dialogue: 0,0:15:05.95,0:15:07.94,Default,,0,0,0,,Aku masih belum cukup makan...
+Dialogue: 0,0:15:07.94,0:15:11.76,Default,,0,0,0,,Aku yakin akan ada makanan enak\Ndi pulau berikutnya juga!
+Dialogue: 0,0:15:11.76,0:15:12.89,Default,,0,0,0,,Hei! Apakah kau mendengar?!
+Dialogue: 0,0:15:13.78,0:15:16.03,Default,,0,0,0,,Warlord of the Sea telah bergabung dengan serangan itu!
+Dialogue: 0,0:15:16.33,0:15:18.10,Default,,0,0,0,,Apa kau serius?! Siapa itu?!
+Dialogue: 0,0:15:19.43,0:15:20.64,Default,,0,0,0,,Seorang Warlord of the Sea?!
+Dialogue: 0,0:15:25.47,0:15:27.77,Default,,0,0,0,,Aku sepenuhnya harapkan seorang laksamana...!
+Dialogue: 0,0:15:33.57,0:15:37.51,Default,,0,0,0,,Aku kira diam-diam melewati\NMarkas Besar Angkatan Laut tak mungkin.
+Dialogue: 0,0:15:37.51,0:15:38.37,Default,,0,0,0,,Tetapi...
+Dialogue: 0,0:15:42.36,0:15:44.29,Default,,0,0,0,,...aku juga punya harga diri untuk dipikirkan!
+Dialogue: 0,0:15:46.13,0:15:49.26,Default,,0,0,0,,Tolong, kabur saja, Kapten Hawkins!
+Dialogue: 0,0:15:49.26,0:15:50.97,Default,,0,0,0,,Kapten Hawkins!
+Dialogue: 0,0:15:51.63,0:15:55.52,Default,,0,0,0,,Pertempuran: Peluang Kekalahan: 100%.
+Dialogue: 0,0:15:56.03,0:15:58.52,Default,,0,0,0,,Katakan, bisakah kau membantuku?
+Dialogue: 0,0:15:59.06,0:16:02.71,Default,,0,0,0,,Kabur: Peluang Sukses: 12%.
+Dialogue: 0,0:16:02.71,0:16:07.72,Default,,0,0,0,,Aku mencari seorang pria bernama Sentomaru...
+Dialogue: 0,0:16:07.72,0:16:11.61,Default,,0,0,0,,Pertahanan: Peluang Menghindar: 76%.
+Dialogue: 0,0:16:11.85,0:16:13.53,Default,,0,0,0,,Hei...
+Dialogue: 0,0:16:14.32,0:16:16.44,Default,,0,0,0,,Aku tak mengenal pria seperti itu.
+Dialogue: 0,0:16:17.05,0:16:18.61,Default,,0,0,0,,Tanya orang lain.
+Dialogue: 0,0:16:19.39,0:16:25.18,Default,,0,0,0,,Sebenarnya, jika aku tak dapat temukan,\Nitu membuatku punya waktu luang...
+Dialogue: 0,0:16:25.91,0:16:30.75,Default,,0,0,0,,Selain itu, jika aku tak sibuk, aku jelas\Ntak bisa biarkan buronan pergi...
+Dialogue: 0,0:16:31.26,0:16:34.38,Default,,0,0,0,,Terutama yang sepertimu, dengan hadiah 249 juta...
+Dialogue: 0,0:16:34.38,0:16:37.39,Default,,0,0,0,,..."Magician" Basil Hawkins!
+Dialogue: 0,0:16:38.70,0:16:41.10,Default,,0,0,0,,Kecepatan adalah berat!
+Dialogue: 0,0:16:41.44,0:16:45.06,Default,,0,0,0,,Pernahkah kau ditendang dengan kecepatan cahaya?
+Dialogue: 0,0:16:52.58,0:16:53.74,Default,,0,0,0,,Kapten!
+Dialogue: 0,0:16:57.88,0:17:00.01,Default,,0,0,0,,Kami siap berlayar!
+Dialogue: 0,0:17:00.01,0:17:01.37,Default,,0,0,0,,Baik! Mari kita enyah!
+Dialogue: 0,0:17:06.31,0:17:07.64,Default,,0,0,0,,A-Apa yang terjadi?!
+Dialogue: 0,0:17:07.71,0:17:09.16,Default,,0,0,0,,H-Hei! Apa yang terjadi?!
+Dialogue: 0,0:17:09.16,0:17:11.30,Default,,0,0,0,,Aku tak tahu! Dia tiba-tiba terbang!
+Dialogue: 0,0:17:17.84,0:17:20.36,Default,,0,0,0,,Orang ini kuat, baiklah...
+Dialogue: 0,0:17:20.84,0:17:22.16,Default,,0,0,0,,Wah! Dia masih beraksi!
+Dialogue: 0,0:17:37.54,0:17:40.84,Default,,0,0,0,,H-Hei! Apa yang terjadi?! Dia tiba-tiba- !
+Dialogue: 0,0:17:40.84,0:17:42.65,Default,,0,0,0,,Dari mana datangnya serangan itu?!
+Dialogue: 0,0:17:53.17,0:17:54.05,Default,,0,0,0,,Kapten!
+Dialogue: 0,0:17:54.53,0:17:57.85,Default,,0,0,0,,Impresif. Kau jauh lampaui apa yang kubayangkan.
+Dialogue: 0,0:17:58.64,0:18:00.35,Default,,0,0,0,,Itu aneh...
+Dialogue: 0,0:18:01.14,0:18:03.31,Default,,0,0,0,,Untuk berpikir dua akan dihancurkan ...
+Dialogue: 0,0:18:03.73,0:18:07.43,Default,,0,0,0,,Terhadap seorang laksamana,\Nsepuluh tak cukup untuk merasa aman.
+Dialogue: 0,0:18:14.76,0:18:17.57,Default,,0,0,0,,Itu "Mad Monk" Urouge!
+Dialogue: 0,0:18:17.57,0:18:18.54,Default,,0,0,0,,Itu tidak semua!
+Dialogue: 0,0:18:20.99,0:18:23.41,Default,,0,0,0,,Itu Bartholomew Kuma,\Nsalah satu dari Seven Warlords of the Sea!
+Dialogue: 0,0:18:24.89,0:18:27.58,Default,,0,0,0,,Aku bingung! Kekuatan yang luar biasa!
+Dialogue: 0,0:18:27.58,0:18:29.45,Default,,0,0,0,,Ada musuh yang lebih kuat untuk dikhawatirkan.
+Dialogue: 0,0:18:31.74,0:18:34.21,Default,,0,0,0,,Yang benar saja! Itu Kizaru!
+Dialogue: 0,0:18:34.37,0:18:36.52,Default,,0,0,0,,Sungguh nasib yang tragis!
+Dialogue: 0,0:18:36.52,0:18:40.80,Default,,0,0,0,,Laksamana angkatan laut di depan\Ndan warlord of the Sea di belakang!
+Dialogue: 0,0:18:40.80,0:18:41.97,Default,,0,0,0,,Apa ini akhir dari garis?!
+Dialogue: 0,0:18:42.83,0:18:46.81,Default,,0,0,0,,Belum tentu. Aku belum lihat\Nbayangan kematian di atasmu.
+Dialogue: 0,0:18:47.94,0:18:49.17,Default,,0,0,0,,Kau tak mengatakan...
+Dialogue: 0,0:18:49.17,0:18:51.46,Default,,0,0,0,,Hawkins, dari North Blue, ya?
+Dialogue: 0,0:18:52.27,0:18:55.28,Default,,0,0,0,,Terima kasih atas leluconnya, musuh sepertimu!
+Dialogue: 0,0:19:01.83,0:19:03.22,Default,,0,0,0,,Apa...?!
+Dialogue: 0,0:19:03.22,0:19:04.95,Default,,0,0,0,,Orang lain telah bergabung dalam pertarungan!
+Dialogue: 0,0:19:04.95,0:19:05.57,Default,,0,0,0,,itu...
+Dialogue: 0,0:19:06.58,0:19:08.34,Default,,0,0,0,,"Red Flag" X. Drake!
+Dialogue: 0,0:19:08.34,0:19:09.21,Default,,0,0,0,,Kenapa dia di sini?!
+Dialogue: 0,0:19:10.48,0:19:12.97,Default,,0,0,0,,Apa sejauh itu kekuatanmu, Mad Monk?!
+Dialogue: 0,0:19:13.19,0:19:15.65,Default,,0,0,0,,Kau lagi?!
+Dialogue: 0,0:19:15.65,0:19:17.42,Default,,0,0,0,,Laksamana Muda Drake.
+Dialogue: 0,0:19:17.42,0:19:20.63,Default,,0,0,0,,Sial! Aku tak berencana bertemu Kizaru!
+Dialogue: 0,0:19:32.91,0:19:35.14,Default,,0,0,0,,Aku telah terima pukulan yang cukup keras,
+Dialogue: 0,0:19:35.14,0:19:41.83,Default,,0,0,0,,tetapi mari kita cari tahu sekarang apa aku\Nbenar punya harapan yang tersisa atau tidak!
+Dialogue: 0,0:19:44.51,0:19:47.00,Default,,0,0,0,,Aku pikir aku mulai dengan serangan balik kecil.
+Dialogue: 0,0:19:48.07,0:19:50.97,Default,,0,0,0,,Lihat! Hal-hal sungguh gila sekarang!
+Dialogue: 0,0:19:50.97,0:19:52.66,Default,,0,0,0,,Ini hal yang hebat!
+Dialogue: 0,0:19:52.66,0:19:56.17,Default,,0,0,0,,Ini sangat berbahaya! Mereka semua akan mati!
+Dialogue: 0,0:19:56.17,0:19:58.54,Default,,0,0,0,,Ini kesempatan kita untuk kabur!
+Dialogue: 0,0:19:58.54,0:20:03.01,Default,,0,0,0,,Kau gila? Kesenangan yang sebenarnya\Nakan segera dimulai!
+Dialogue: 0,0:20:08.61,0:20:09.77,Default,,0,0,0,,Siapa kau?!
+Dialogue: 0,0:20:12.55,0:20:16.06,Default,,0,0,0,,- Kembalilah, Luffy!\N- Dia salah satu Seven Warlords od the Sea!
+Dialogue: 0,0:20:16.06,0:20:18.73,Default,,0,0,0,,Warlord of the Sea?! Kenapa kalian tahu itu?!
+Dialogue: 0,0:20:20.61,0:20:23.54,Default,,0,0,0,,Jangan biarkan serangan itu mengenaimu!\NIni gelombang kejut!
+Dialogue: 0,0:20:33.43,0:20:34.46,Default,,0,0,0,,Apa ini?!
+Dialogue: 0,0:20:34.46,0:20:36.58,Default,,0,0,0,,Dia bisa melakukan ini juga?!
+Dialogue: 0,0:20:37.69,0:20:40.67,Default,,0,0,0,,Hei! Kau berbohong\Ntentang itu jadi gelombang kejut!
+Dialogue: 0,0:20:40.67,0:20:41.47,Default,,0,0,0,,Itu adalah...
+Dialogue: 0,0:20:41.94,0:20:45.00,Default,,0,0,0,,...sinar!
+Dialogue: 0,0:20:45.00,0:20:47.17,Default,,0,0,0,,Ini bukan waktunya untuk bersemangat, bodoh!
+Dialogue: 0,0:20:50.46,0:20:53.09,Default,,0,0,0,,Bartholomew Kuma! Kenapa kau kembali?!
+Dialogue: 0,0:20:53.54,0:20:54.68,Default,,0,0,0,,Bajingan itu...!
+Dialogue: 0,0:20:55.07,0:20:58.94,Default,,0,0,0,,Tunggu, apa dia orang yang kau katakan muncul\Ndi Thriller Bark sesudahnya?!
+Dialogue: 0,0:20:58.94,0:21:01.79,Default,,0,0,0,,Ya, itu dia!
+Dialogue: 0,0:21:01.79,0:21:07.37,Default,,0,0,0,,Keadaan jadi sangat buruk ketika dia memukul kami\Ndengan gelombang kejut dari cakar di telapak tangannya!
+Dialogue: 0,0:21:08.31,0:21:12.00,Default,,0,0,0,,Dia telah rencanakan untuk\Nmemusnahkan kita di luar sana...
+Dialogue: 0,0:21:17.94,0:21:21.13,Default,,0,0,0,,...jadi dia pasti kembali\Nsaat dia tahu kita selamat!
+Dialogue: 0,0:21:22.18,0:21:26.60,Default,,0,0,0,,Kau memberi kami banyak masalah saat itu!
+Dialogue: 0,0:21:27.34,0:21:28.94,Default,,0,0,0,,Coup de Vent!
+Dialogue: 0,0:21:36.33,0:21:37.79,Default,,0,0,0,,Apa itu berhasil?!
+Dialogue: 0,0:21:37.79,0:21:42.07,Default,,0,0,0,,Tidak, pria itu masih seperti semula...!
+Dialogue: 0,0:21:45.31,0:21:46.16,Default,,0,0,0,,Luffy-san!
+Dialogue: 0,0:21:46.91,0:21:48.87,Default,,0,0,0,,Second Gear!
+Dialogue: 0,0:21:49.87,0:21:54.58,Default,,0,0,0,,Kita tahu dia kuat,\Njadi mari kita habiskan di awal!
+Dialogue: 0,0:21:59.69,0:22:01.13,Default,,0,0,0,,Kira kita tidak punya pilihan!
+Dialogue: 0,0:22:05.09,0:22:09.25,Default,,0,0,0,,Ada yang tidak beres di sini...\NDia tampak berbeda dari terakhir kali.
+Dialogue: 0,0:22:15.93,0:22:17.15,Default,,0,0,0,,Apa itu hanya imajinasiku?!
+Dialogue: 0,0:22:24.90,0:22:26.41,Default,,0,0,0,,Ayo maju!
+Dialogue: 0,0:22:37.82,0:22:40.77,Default,,0,0,0,,Kenapa begitu lama?!\NKapal perang seharusnya sudah tiba!
+Dialogue: 0,0:22:40.77,0:22:42.21,Default,,0,0,0,,Betapa anehnya...
+Dialogue: 0,0:22:44.46,0:22:47.52,Default,,0,0,0,,Kenapa Paman Kizaru belum menghubungiku?!
+Dialogue: 0,0:22:54.67,0:22:56.15,Default,,0,0,0,,Dia lebih baik bergegas.
+Dialogue: 0,0:22:59.62,0:23:01.72,Default,,0,0,0,,Mereka akan...
+Dialogue: 0,0:23:09.39,0:23:11.99,Default,,0,0,0,,...singkirkan
+Dialogue: 0,0:23:12.01,0:23:15.02,Default,,0,0,0,,(Bersambung)\Nsemua Rookie!
+Dialogue: 0,0:23:15.02,0:23:16.98,Default,,0,0,0,,= ONE PIECE =
+Dialogue: 0,0:23:20.54,0:23:23.54,Default,,0,0,0,,Apakah dia berbeda dari Warlord of the Sea\Nyang kita temui sebelumnya?
+Dialogue: 0,0:23:23.54,0:23:27.50,Default,,0,0,0,,Ya. Yang asli pasti sudah teleportasi\Ndan hindari serangan kita.
+Dialogue: 0,0:23:27.50,0:23:28.94,Default,,0,0,0,,Jadi dia palsu?
+Dialogue: 0,0:23:28.94,0:23:31.19,Default,,0,0,0,,Tetapi itulah masalah sebenarnya.
+Dialogue: 0,0:23:31.19,0:23:34.89,Default,,0,0,0,,Itu berarti ada dua orang yang sekuat ini.
+Dialogue: 0,0:23:34.89,0:23:36.40,Default,,0,0,0,,Di episode One Piece berikutnya!
+Dialogue: 0,0:23:36.40,0:23:40.13,Default,,0,0,0,,(Luar Biasa! Senjata Tempur\NAngkatan Laut, Pacifista)
+Dialogue: 0,0:23:40.13,0:23:42.24,Default,,0,0,0,,Aku akan menjadi King of Pirates!!
+Dialogue: 0,0:23:45.00,0:23:50.01,Default,,0,0,0,,(Bersambung)
